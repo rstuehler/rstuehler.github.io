@@ -18,7 +18,7 @@
     "href": "posts/first-test-post/index.html",
     "title": "Test Post",
     "section": "",
-    "text": "Hello World!\nThis is highlighted text."
+    "text": "Hello World!\nThis is highlighted text.\nBold text and italic text\n\nimport numpy as np\nimport matplotlib.pyplot as plt\n\nx = np.arange(100)\ny = x**2\n\nplt.plot(x, y)\nplt.show()"
   },
   {
     "objectID": "posts/post-with-code/index.html",
