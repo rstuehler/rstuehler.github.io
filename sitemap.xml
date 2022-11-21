@@ -2,22 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://rstuehler.github.io/about.html</loc>
-    <lastmod>2022-11-21T10:31:00.078Z</lastmod>
+    <lastmod>2022-11-21T10:43:03.994Z</lastmod>
   </url>
   <url>
     <loc>https://rstuehler.github.io/index.html</loc>
-    <lastmod>2022-11-21T10:31:02.055Z</lastmod>
+    <lastmod>2022-11-21T10:43:05.779Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rstuehler.github.io/layout.html</loc>
+    <lastmod>2022-11-21T10:43:07.489Z</lastmod>
   </url>
   <url>
     <loc>https://rstuehler.github.io/posts/first-test-post/index.html</loc>
-    <lastmod>2022-11-21T10:31:15.319Z</lastmod>
+    <lastmod>2022-11-21T10:43:20.288Z</lastmod>
   </url>
   <url>
     <loc>https://rstuehler.github.io/posts/post-with-code/index.html</loc>
-    <lastmod>2022-11-21T10:31:17.006Z</lastmod>
+    <lastmod>2022-11-21T10:43:21.958Z</lastmod>
   </url>
   <url>
     <loc>https://rstuehler.github.io/posts/welcome/index.html</loc>
-    <lastmod>2022-11-21T10:31:18.678Z</lastmod>
+    <lastmod>2022-11-21T10:43:23.567Z</lastmod>
   </url>
 </urlset>
