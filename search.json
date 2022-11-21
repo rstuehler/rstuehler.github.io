@@ -18,7 +18,7 @@
     "href": "posts/first-test-post/index.html",
     "title": "Test Post",
     "section": "",
-    "text": "Hello World!\nThis is highlighted text.\nBold text and italic text\n\nimport numpy as np\nimport matplotlib.pyplot as plt\n\nx = np.arange(100)\ny = x**2\n\nplt.plot(x, y)\nplt.show()"
+    "text": "Hello World!\nThis is highlighted text.\nBold text and italic text\n\nimport numpy as np\nimport matplotlib.pyplot as plt\n\nx = np.arange(100)\ny = x**2\n\nplt.plot(x, y)\nplt.show()\n\n\n\n\n\nimport plotly.express as px\nimport plotly.io as pio\npio.renderers.default = \"plotly_mimetype+notebook_connected\"\n\ndf = px.data.iris()\nfig = px.scatter(df, x=\"sepal_width\", y=\"sepal_length\", \n                 color=\"species\", \n                 marginal_y=\"violin\", marginal_x=\"box\", \n                 trendline=\"ols\", template=\"simple_white\")\nfig.show()"
   },
   {
     "objectID": "posts/post-with-code/index.html",
