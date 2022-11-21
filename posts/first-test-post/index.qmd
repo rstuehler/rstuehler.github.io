@@ -1,0 +1,25 @@
+---
+title: "Test Post"
+author: "Raul Stühler"
+date: "2022-11-21"
+categories: [new category]
+---
+
+Hello World!
+
+    This is highlighted text.
+
+**Bold text** and *italic text*
+
+```{python}
+
+import numpy as np
+import matplotlib.pyplot as plt
+
+x = np.arange(100)
+y = x**2
+
+plt.plot(x, y)
+plt.show()
+
+```
