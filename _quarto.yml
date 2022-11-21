@@ -10,6 +10,16 @@ website:
         href: https://github.com/
       - icon: twitter
         href: https://twitter.com
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - section: "Basics"
+        contents:
+          - index.qmd
+      - section: "Layout"
+        contents:
+          - layout.qmd
 format:
   html:
     theme: cosmo
